@@ -91,11 +91,22 @@ body {
 
 @media only screen and (min-width: 600px) {
     .header {
-           font-size: 8pt;
+        font-size: 8pt;
 
     }
     .instructions {
         font-size: 8pt;
+    }
+    .playerScore {
+        font-size: 7pt;
+    }
+}
 
+@media only screen and (min-width: 768px) {
+    .header {
+        font-size: 12pt;
+    }
+    .instructions {
+        font-size: 12pt;
     }
 }
