@@ -1,0 +1,33 @@
+body {
+    background: grey;
+
+    
+
+}
+
+.header {
+    background: lightskyblue;
+    font-family: 'Orbitron', sans-serif;
+    width: 25%;
+    height: 80px;
+    padding: 5px;
+    text-align: center;
+}
+
+.instructions {
+    background: peachpuff;
+    width: 33%;
+    height: 300px;
+    font-family: 'Righteous', cursive;
+    font-size: 12pt;
+
+}
+
+.randomNum {
+    background: lightgreen;
+    width: 80px;
+    height: 90px;
+    padding: 3px;
+    font-size: 20pt;
+    font-weight: bold;
+}

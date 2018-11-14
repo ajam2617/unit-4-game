@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <title>Crystals Collector!</title>
 
-<!-- Linking css stylesheets and javascript-->
+<!-- Linking google fonts, css stylesheets, and javascript-->
+    <link href="https://fonts.googleapis.com/css?family=Orbitron|Righteous|Shadows+Into+Light" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="reset-stylesheet" href="assets/css/reset.css">
     <link rel="javascript" href="assets/javascript/game.js">
@@ -63,10 +64,10 @@
 
     <div class="gemButton">
 
-        <img src="assets/images/crystal1.PNG" alt="one">
-        <img src="assets/images/crystal2.PNG" alt="two">
-        <img src="assets/images/crystal3.PNG" alt="three">
-        <img src="assets/images/crystal4.PNG" alt="four">
+        <img src="assets/images/crystal1.PNG" id="one">
+        <img src="assets/images/crystal2.PNG" id="two">
+        <img src="assets/images/crystal3.PNG" id="three">
+        <img src="assets/images/crystal4.PNG" id="four">
 
     </div>
    
@@ -74,11 +75,15 @@
 
     <div class="playerScore">
 
-        <h2>Your total score is: </h2>
-
+        <h2>Your total score is: 
+          <span id="finalTotal"></span>
+        </h2>
+            
     </div>
 
 <!--linking javascript file to html file-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
     <script type="text/javascript" src="assets/javascript/game.js"></script>
 
 </body>
