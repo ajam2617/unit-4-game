@@ -1,5 +1,6 @@
 body {
-    background: grey;
+    background-image: url(http://www.cerc-ug.org/pic/b/0/296_white-wallpaper.jpg);
+    background-size: cover;
 
     
 
@@ -49,9 +50,7 @@ body {
 
 .gemButton {
     clear: both;
-    margin-left: 30px;
-
-   
+    margin-left: 30px;   
 }
 
 #one {
@@ -87,6 +86,7 @@ body {
     background: mediumseagreen;
     font-family: 'Shadows Into Light', cursive;
     height: 90px;
-    width: 16%;
+    width: 20%;
+    font-size: 18pt;
 
 }
