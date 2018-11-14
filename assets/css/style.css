@@ -16,7 +16,7 @@ body {
 
 .instructions {
     background: peachpuff;
-    width: 33%;
+    width: 32%;
     height: 300px;
     font-family: 'Righteous', cursive;
     font-size: 12pt;
@@ -25,9 +25,68 @@ body {
 
 .randomNum {
     background: lightgreen;
-    width: 80px;
+    width: 16%;
     height: 90px;
     padding: 3px;
     font-size: 20pt;
     font-weight: bold;
+    float: left;
+    margin-top: 5px;
+}
+
+.winsLossCount {
+    float: left;
+    width: 15.2%;
+    height: 90px;
+    padding: 3px;
+    font-size: 12pt;
+    font-weight: bold;
+    background: lightseagreen;
+    margin-top: 5px;
+    margin-left: 2px;
+
+}
+
+.gemButton {
+    clear: both;
+    margin-left: 30px;
+
+   
+}
+
+#one {
+    width: 98px;
+    height: 92px;
+    object-fit: fill;
+    margin-top: 5px;
+}
+
+#two {
+    width: 98px;
+    height: 92px;
+    object-fit: fill;
+    margin-top: 5px;
+}
+
+#three {
+    width: 98px;
+    height: 92px;
+    object-fit: fill;
+    margin-top: 5px;
+}
+
+#four {
+    width: 98px;
+    height: 92px;
+    object-fit: fill;
+    margin-top: 5px;
+
+}
+
+.playerScore {
+    background: mediumseagreen;
+    font-family: 'Shadows Into Light', cursive;
+    height: 90px;
+    width: 16%;
+
 }
