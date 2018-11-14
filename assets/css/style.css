@@ -1,9 +1,7 @@
 body {
     background-image: url(http://www.cerc-ug.org/pic/b/0/296_white-wallpaper.jpg);
     background-size: cover;
-
     
-
 }
 
 .header {
@@ -57,28 +55,28 @@ body {
     width: 98px;
     height: 92px;
     object-fit: fill;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 #two {
     width: 98px;
     height: 92px;
     object-fit: fill;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 #three {
     width: 98px;
     height: 92px;
     object-fit: fill;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 #four {
     width: 98px;
     height: 92px;
     object-fit: fill;
-    margin-top: 5px;
+    margin-top: 15px;
 
 }
 
