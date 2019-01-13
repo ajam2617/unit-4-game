@@ -17,13 +17,13 @@ No special software needed. Game runs in default browser.
 * jQuery
 
 
-<img src = "http://g.recordit.co/vVSJOBtIBa.gif" alt text = "UI Experience" width = "800px" height = "600px">
+<img src = "http://g.recordit.co/vVSJOBtIBa.gif" alt text = "UI Experience" width = "600px" height = "700px">
 
 
-<img src = "/assets/images/game-logic.JPG" alt text = "Game logic code" width = "800px" height = "600px">
+<img src = "/assets/images/game-logic.JPG" alt text = "Game logic code" width = "600px" height = "700px">
 
 
-<img src = "/assets/images/game-logic2.JPG" alt text = " More Game logic code" width = "800px" height = "600px">
+<img src = "/assets/images/game-logic2.JPG" alt text = " More Game logic code" width = "600px" height = "700px">
 
 
 # :mega: Acknowledgments :mega:
