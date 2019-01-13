@@ -11,6 +11,12 @@ No special software needed. Game runs in default browser.
 #  :construction_worker: Built With :construction_worker:
 
 
+* HTML
+* CSS
+* Javascript
+* jQuery
+
+
 <img src = "http://g.recordit.co/vVSJOBtIBa.gif" alt text = "UI Experience" width = "800px" height = "600px">
 
 
@@ -19,11 +25,6 @@ No special software needed. Game runs in default browser.
 
 <img src = "/assets/images/game-logic2.JPG" alt text = " More Game logic code" width = "800px" height = "600px">
 
-
-* HTML
-* CSS
-* Javascript
-* jQuery
 
 # :mega: Acknowledgments :mega:
 
