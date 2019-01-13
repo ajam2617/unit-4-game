@@ -11,13 +11,13 @@ No special software needed. Game runs in default browser.
 #  :construction_worker: Built With :construction_worker:
 
 
-<img src = "http://g.recordit.co/vVSJOBtIBa.gif" alt text = "UI Experience">
+<img src = "http://g.recordit.co/vVSJOBtIBa.gif" alt text = "UI Experience" width = "600px" height = "500px">
 
 
-<img src = "/assets/images/game-logic.JPG" alt text = "Game logic code">
+<img src = "/assets/images/game-logic.JPG" alt text = "Game logic code" width = "600px" height = "500px">
 
 
-<img src = "/assets/images/game-logic2.JPG" alt text = " More Game logic code">
+<img src = "/assets/images/game-logic2.JPG" alt text = " More Game logic code" width = "600px" height = "500px">
 
 
 * HTML
