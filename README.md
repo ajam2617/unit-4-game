@@ -6,7 +6,7 @@ The player wins if their total score matches the random number from the beginnin
 # :white_check_mark: Prerequisites :white_check_mark:
 
 No special software needed. Game runs in default browser. 
-[deployed-site](https://ajam2617.github.io/unit-4-game/)
+[Deployed-Site](https://ajam2617.github.io/unit-4-game/)
 
 #  :construction_worker: Built With :construction_worker:
 
